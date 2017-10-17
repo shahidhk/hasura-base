@@ -1,0 +1,4 @@
+name: base
+author: Shahidh <shahidh@hasura.io>
+description: Base for a hasura project
+license: MIT
